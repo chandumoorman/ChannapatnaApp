@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308739874565",
+    "project_id": "channapatnaapp-8b10a",
+    "storage_bucket": "channapatnaapp-8b10a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308739874565:android:ebfb702401a9280218616c",
+        "android_client_info": {
+          "package_name": "com.example.channapatna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPvo8k_N4gqX1dpQmORhHhGD20IMVbRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
