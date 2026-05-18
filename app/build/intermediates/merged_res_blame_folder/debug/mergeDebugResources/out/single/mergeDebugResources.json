@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.nammapride.app-debug-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nammapride.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_rattle.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_rattle.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_wooden_puzzle.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_wooden_puzzle.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_process_lac_dye.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/process_lac_dye.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_dancing_peacock.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_dancing_peacock.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_kitchen_set.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_kitchen_set.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_artisan_lakshmi.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/artisan_lakshmi.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_artisan_manjunath.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/artisan_manjunath.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_spinning_top.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_spinning_top.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_train.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_train.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_artisan_rafiq.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/artisan_rafiq.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_artisan_ramesh.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/artisan_ramesh.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_pull_duck.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_pull_duck.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_rocking_horse.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_rocking_horse.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_baby_cradle.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_baby_cradle.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_artisan_suresh.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/artisan_suresh.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_elephant_cart.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_elephant_cart.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nammapride.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nammapride.app-debug-60:/drawable_toy_ring_stacker.xml.flat",
+        "source": "com.nammapride.app-main-62:/drawable/toy_ring_stacker.xml"
+    }
+]

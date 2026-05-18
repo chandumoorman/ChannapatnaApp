@@ -518,7 +518,7 @@ private fun ChannapatnaApp() {
                         toyId = document.id,
                         toyName = document.getString("toyName").orEmpty(),
                         price = document.getString("price").orEmpty(),
-                      0  quantity = document.getLong("quantity")?.toInt() ?: 1
+                        quantity = document.getLong("quantity")?.toInt() ?: 1
                     )
                 }.orEmpty()
             }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">308739874565</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrPvo8k_N4gqX1dpQmORhHhGD20IMVbRs</string>
+    <string name="google_app_id" translatable="false">1:308739874565:android:ebfb702401a9280218616c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrPvo8k_N4gqX1dpQmORhHhGD20IMVbRs</string>
+    <string name="google_storage_bucket" translatable="false">channapatnaapp-8b10a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">channapatnaapp-8b10a</string>
+</resources>

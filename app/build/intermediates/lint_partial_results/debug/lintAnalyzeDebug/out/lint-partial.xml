@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.6.1" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.nammapride.app.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnsafeImplicitIntentLaunch">
+            <map id="actionsSent">
+                    <map id="android.intent.action.VIEW (used to start an activity)">
+                        <location id="0"
+                            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/nammapride/app/MainActivity.kt"
+                            line="1811"
+                            column="20"
+                            startOffset="86279"
+                            endLine="1811"
+                            endColumn="118"
+                            endOffset="86377"/>
+                        <location id="1"
+                            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/nammapride/app/MainActivity.kt"
+                            line="1816"
+                            column="18"
+                            startOffset="86563"
+                            endLine="1816"
+                            endColumn="65"
+                            endOffset="86610"/>
+                    </map>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="color[seed_green(U)],drawable[artisan_lakshmi(U),artisan_manjunath(U),artisan_rafiq(U),artisan_ramesh(U),artisan_suresh(U),ic_launcher_foreground(U),process_lac_dye(U),toy_baby_cradle(U),toy_dancing_peacock(U),toy_elephant_cart(U),toy_kitchen_set(U),toy_pull_duck(U),toy_rattle(U),toy_ring_stacker(U),toy_rocking_horse(U),toy_spinning_top(U),toy_train(U),toy_wooden_puzzle(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],style[Theme_ChannapatnaNammaPride(U)];13^0^6,14^0^6;;;"/>
+    </map>
+
+</incidents>

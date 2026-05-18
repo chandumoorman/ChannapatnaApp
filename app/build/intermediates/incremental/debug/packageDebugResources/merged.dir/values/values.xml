@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed_green">#356B45</color>
+    <string name="action_add">Add</string>
+    <string name="action_buy_now">Buy Now</string>
+    <string name="action_login">Login</string>
+    <string name="action_signup">Signup</string>
+    <string name="app_name_full">Channapatna - Namma Pride</string>
+    <string name="auth_already_have">Already have an account? Login</string>
+    <string name="auth_create_account">Create account</string>
+    <string name="auth_login_to_continue">Login to continue</string>
+    <string name="auth_new_user">New user? Create account</string>
+    <string name="cart_empty">Your cart is empty.</string>
+    <string name="cart_subtitle">Review toys and place your order.</string>
+    <string name="cart_title">Cart</string>
+    <string name="certified_artisan_fmt">Certified artisan: %1$s</string>
+    <string name="check_connection">Check connection</string>
+    <string name="checkout">Checkout</string>
+    <string name="checkout_address_error">Enter a complete delivery address.</string>
+    <string name="checkout_phone_error">Enter a valid 10-digit phone number.</string>
+    <string name="close">Close</string>
+    <string name="collection_help">Add your owned toys manually with image, Toy ID, description, and price.</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="delivery_agent_fmt">Delivery Agent: %1$s</string>
+    <string name="enter_toy_id">Enter 6-digit Toy ID</string>
+    <string name="err_email_in_use">This email is already registered. Please login.</string>
+    <string name="err_incorrect_email_password">Incorrect email or password.</string>
+    <string name="err_password_incorrect">Password is incorrect.</string>
+    <string name="err_profile_not_found">Profile not found. Please signup first.</string>
+    <string name="err_user_not_found">User not found. Please sign up first.</string>
+    <string name="field_confirm_password">Confirm Password</string>
+    <string name="field_email">Email</string>
+    <string name="field_name">Name</string>
+    <string name="field_password">Password</string>
+    <string name="firebase_account">Firebase account</string>
+    <string name="firebase_setup_required">Firebase setup required</string>
+    <string name="firebase_setup_required_body">Add the matching app/google-services.json, then enable Email/Password Authentication and Firestore in the same Firebase project.</string>
+    <string name="gcm_defaultSenderId" translatable="false">308739874565</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrPvo8k_N4gqX1dpQmORhHhGD20IMVbRs</string>
+    <string name="google_app_id" translatable="false">1:308739874565:android:ebfb702401a9280218616c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrPvo8k_N4gqX1dpQmORhHhGD20IMVbRs</string>
+    <string name="google_storage_bucket" translatable="false">channapatnaapp-8b10a.firebasestorage.app</string>
+    <string name="home_featured">Featured toys</string>
+    <string name="in_app_player_title">Video Player</string>
+    <string name="item_total_rs_fmt">Item total: Rs. %1$d</string>
+    <string name="jpg_selected">JPG selected</string>
+    <string name="lac_dye_fmt">Lac dye: %1$s</string>
+    <string name="language">Language</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_preview">Loading preview...</string>
+    <string name="login_invalid_email">Please enter valid email.</string>
+    <string name="login_password_short">Password must be at least 6 characters.</string>
+    <string name="login_required">Email and password are required.</string>
+    <string name="logout">Logout</string>
+    <string name="maker_map_count">5 verified workshop locations</string>
+    <string name="maker_map_preview">Channapatna artisan GPS preview</string>
+    <string name="menu_catalog">Toy Catalog</string>
+    <string name="menu_collection">Collection</string>
+    <string name="menu_makers">Meet the Maker</string>
+    <string name="menu_process">How It\'s Made</string>
+    <string name="menu_title">Menu</string>
+    <string name="my_orders">My Orders</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_verify">Verify Toy</string>
+    <string name="no_orders_yet">No orders yet.</string>
+    <string name="open_in_youtube">Open in YouTube</string>
+    <string name="order_placed_success">Order placed successfully.</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="payment_card">Card</string>
+    <string name="payment_cod">Cash on Delivery</string>
+    <string name="payment_upi">UPI</string>
+    <string name="phone">Phone</string>
+    <string name="phone_fmt">Phone: %1$s</string>
+    <string name="play_icon_desc">Play</string>
+    <string name="play_in_app">Play in app</string>
+    <string name="price_rs_fmt">Rs. %1$s</string>
+    <string name="process_title_nav">How It\'s Made</string>
+    <string name="profile_title">Profile</string>
+    <string name="project_id" translatable="false">channapatnaapp-8b10a</string>
+    <string name="qty_fmt">Qty: %1$d</string>
+    <string name="remove">Remove</string>
+    <string name="rs_short">Rs.</string>
+    <string name="signup_all_required">All fields are required.</string>
+    <string name="signup_name_short">Name must be at least 3 characters.</string>
+    <string name="signup_password_mismatch">Passwords do not match.</string>
+    <string name="signup_success_login_again">Signup successful. Please login with your email and password.</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="status_out_for_delivery">Out for Delivery</string>
+    <string name="status_packed">Packed</string>
+    <string name="status_placed">Placed</string>
+    <string name="status_shipped">Shipped</string>
+    <string name="tagline">Verify the toy. Meet the hands. Keep the craft alive.</string>
+    <string name="total_rs_fmt">Total: Rs. %1$d</string>
+    <string name="toy_id_fmt">Toy ID %1$s</string>
+    <string name="verified_wooden_toys">Verified wooden toys</string>
+    <string name="verify_action">Verify authenticity</string>
+    <string name="verify_empty">Enter the 6-digit Toy ID printed on your toy tag.</string>
+    <string name="verify_hint">Try 100001, 100002, or 100003</string>
+    <string name="verify_invalid">Toy ID must be exactly 6 digits.</string>
+    <string name="verify_not_found">No artisan record found for this Toy ID.</string>
+    <string name="verify_success">Authentic toy verified</string>
+    <string name="verify_title">Verify My Toy</string>
+    <string name="watch_header">Watch How Channapatna Toys Are Made</string>
+    <style name="Theme.ChannapatnaNammaPride" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#F8F5EF</item>
+        <item name="android:statusBarColor">#F8F5EF</item>
+    </style>
+</resources>

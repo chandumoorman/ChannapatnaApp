@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_add">ಸೇರಿಸಿ</string>
+    <string name="action_buy_now">ಈಗ ಖರೀದಿ</string>
+    <string name="action_login">ಲಾಗಿನ್</string>
+    <string name="action_signup">ಸೈನ್ ಅಪ್</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"ಪಾಸ್‌ವರ್ಡ್"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"ಪಾಸ್‌ಕೀ"</string>
+    <string name="app_name_full">ಚನ್ನಪಟ್ಟಣ - ನಮ್ಮ ಪ್ರೈಡ್</string>
+    <string name="auth_already_have">ಖಾತೆ ಇದೆಯೇ? ಲಾಗಿನ್</string>
+    <string name="auth_create_account">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="auth_login_to_continue">ಮುಂದುವರಿಸಲು ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="auth_new_user">ಹೊಸ ಬಳಕೆದಾರ? ಖಾತೆ ರಚಿಸಿ</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ಉತ್ತರಿಸಿ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ವೀಡಿಯೊ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ನಿರಾಕರಿಸಿ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"ಕರೆ ಕೊನೆಗೊಳಿಸಿ"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"ಒಳಬರುವ ಕರೆ"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಕರೆ"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"ಒಳಬರುವ ಕರೆಯನ್ನು ಸ್ಕ್ರೀನ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+    <string name="cart_empty">ನಿಮ್ಮ ಕಾರ್ಟ್ ಖಾಲಿಯಾಗಿದೆ.</string>
+    <string name="cart_subtitle">ಆರ್ಡರ್ ಮಾಡಲು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="cart_title">ಕಾರ್ಟ್</string>
+    <string name="certified_artisan_fmt">ಪ್ರಮಾಣಿತ ಕಲಾವಿದ: %1$s</string>
+    <string name="check_connection">ಸಂಪರ್ಕ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="checkout">ಚೆಕ್ಔಟ್</string>
+    <string name="checkout_address_error">ಪೂರ್ಣ ವಿತರಣಾ ವಿಳಾಸ ನಮೂದಿಸಿ.</string>
+    <string name="checkout_phone_error">ಸರಿಯಾದ 10 ಅಂಕಿಯ ಫೋನ್ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ.</string>
+    <string name="close">ಮುಚ್ಚಿ</string>
+    <string msgid="406453423630273620" name="close_drawer">"ನ್ಯಾವಿಗೇಷನ್‌ ಮೆನು ಮುಚ್ಚಿರಿ"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"ಶೀಟ್ ಮುಚ್ಚಿರಿ"</string>
+    <string name="collection_help">ಚಿತ್ರ, ಆಟಿಕೆ ID, ವಿವರಣೆ ಮತ್ತು ದರದೊಂದಿಗೆ ನಿಮ್ಮ ಆಟಿಕೆಗಳನ್ನು ಕೈಯಾರೆ ಸೇರಿಸಿ.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">ಸಕ್ರಿಯಗೊಳಿಸು</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು %1$s ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</string>
+    <string name="common_google_play_services_install_text">ನಿಮ್ಮ ಸಾಧನದಿಂದ ಕಾಣೆಯಾಗಿರುವ %1$s, Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ಸೇವೆಗಳ ಲಭ್ಯತೆ</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ಸೇವೆಗಳ ದೋಷ</string>
+    <string name="common_google_play_services_unknown_issue">Google Play ಸೇವೆಗಳಲ್ಲಿ %1$s ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="common_google_play_services_unsupported_text">ನಿಮ್ಮ ಸಾಧನದ ಮೂಲಕ ಬೆಂಬಲಿಸದಿರುವ Google Play ಸೇವೆಗಳಿಲ್ಲದೆ %1$s ರನ್‌ ಆಗುವುದಿಲ್ಲ.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">ನೀವು Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‍ಡೇಟ್ ಮಾಡದ ಹೊರತು %1$s ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google ಪ್ಲೇ ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ</string>
+    <string name="common_google_play_services_updating_text">Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಪ್ರಸ್ತುತ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತಿರುವ %1$s ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play ಸೇವೆಗಳ ಹೊಸ ಆವೃತ್ತಿ ಅಗತ್ಯವಿದೆ. ಸದ್ಯದಲ್ಲೇ ಅದು ತಾನಾಗಿಯೇ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತದೆ.</string>
+    <string name="common_open_on_phone">ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="common_signin_button_text">ಸೈನ್ ಇನ್</string>
+    <string name="common_signin_button_text_long">Google ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಲಿಂಕ್ ಅನ್ನು ನಕಲಿಸಲಾಗಿದೆ"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"ಅಮಾನ್ಯ ಇನ್‌ಪುಟ್"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"ಪಾಪ್-ಅಪ್ ವಿಂಡೋ"</string>
+    <string name="delivery_address">ವಿತರಣಾ ವಿಳಾಸ</string>
+    <string name="delivery_agent_fmt">ಡೆಲಿವರಿ ಏಜೆಂಟ್: %1$s</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"ಡ್ರಾಪ್‌ಡೌನ್ ಮೆನು"</string>
+    <string name="enter_toy_id">6 ಅಂಕಿಯ ಆಟಿಕೆ ID</string>
+    <string name="err_email_in_use">ಈ ಇಮೇಲ್ ಈಗಾಗಲೇ ನೋಂದಾಯಿಸಲಾಗಿದೆ. ಲಾಗಿನ್ ಮಾಡಿ.</string>
+    <string name="err_incorrect_email_password">ಇಮೇಲ್ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ.</string>
+    <string name="err_password_incorrect">ಪಾಸ್‌ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ.</string>
+    <string name="err_profile_not_found">ಪ್ರೊಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ. ಮೊದಲು ಸೈನ್ ಅಪ್ ಮಾಡಿ.</string>
+    <string name="err_user_not_found">ಬಳಕೆದಾರ ಕಂಡುಬಂದಿಲ್ಲ. ಮೊದಲು ಸೈನ್ ಅಪ್ ಮಾಡಿ.</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"ಲಿಂಕ್ ನಕಲಿಸಿ"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"ಲಿಂಕ್ ಹಂಚಿರಿ"</string>
+    <string name="field_confirm_password">ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="field_email">ಇಮೇಲ್</string>
+    <string name="field_name">ಹೆಸರು</string>
+    <string name="field_password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="firebase_account">Firebase ಖಾತೆ</string>
+    <string name="firebase_setup_required">Firebase ಸೆಟಪ್ ಅಗತ್ಯ</string>
+    <string name="firebase_setup_required_body">ಸರಿಯಾದ app/google-services.json ಸೇರಿಸಿ, ನಂತರ ಅದೇ Firebase ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ Email/Password Authentication ಮತ್ತು Firestore ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="home_featured">ಪ್ರಮುಖ ಆಟಿಕೆಗಳು</string>
+    <string name="in_app_player_title">ವೀಡಿಯೊ ಪ್ಲೇಯರ್</string>
+    <string msgid="6827826412747255547" name="in_progress">"ಪ್ರಗತಿಯಲ್ಲಿದೆ"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"ಭಾಗಶಃ ಪರೀಕ್ಷಿಸಲಾಗಿದೆ"</string>
+    <string name="item_total_rs_fmt">ಐಟಂ ಒಟ್ಟು: ರೂ. %1$d</string>
+    <string name="jpg_selected">JPG ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="lac_dye_fmt">ಲಾಕ್ ಬಣ್ಣ: %1$s</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="loading_preview">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="login_invalid_email">ಸರಿಯಾದ ಇಮೇಲ್ ನಮೂದಿಸಿ.</string>
+    <string name="login_password_short">ಪಾಸ್‌ವರ್ಡ್ ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳಿರಬೇಕು.</string>
+    <string name="login_required">ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಅಗತ್ಯ.</string>
+    <string name="logout">ಲಾಗೌಟ್</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ಕುಗ್ಗಿಸಿ"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ವಜಾಗೊಳಿಸಿ"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"ಹ್ಯಾಂಡಲ್ ಡ್ರ್ಯಾಗ್ ಮಾಡಿ"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ವಿಸ್ತರಿಸಿ"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"ಕೆಳಭಾಗದ ಶೀಟ್"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"ನಮೂದಿಸಿದ ದಿನಾಂಕ"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"ನಮೂದಿಸಿದ ದಿನಾಂಕ: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"ನಿರೀಕ್ಷಿಸಿದ ಪ್ಯಾಟರ್ನ್‌ನೊಂದಿಗೆ ದಿನಾಂಕ ಹೊಂದಾಣಿಕೆಯಾಗುತ್ತಿಲ್ಲ: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"ದಿನಾಂಕವನ್ನು ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"ದಿನಾಂಕವು ನಿರೀಕ್ಷಿಸಿದ ವರ್ಷದ ವ್ಯಾಪ್ತಿಯನ್ನು ಮೀರಿದೆ %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"ದಿನಾಂಕ"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"ಯಾವುದೂ ಅಲ್ಲ"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"ಆಯ್ಕೆಮಾಡಲಾದ ದಿನಾಂಕ"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"ಪ್ರಸ್ತುತ ಆಯ್ಕೆ: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"%1$s ವರ್ಷಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"ಯಾವುದೂ ಅಲ್ಲ"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"ಹಿಂದಿನ ವರ್ಷಗಳನ್ನು ತೋರಿಸಲು ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"ನಂತರದ ವರ್ಷಗಳನ್ನು ತೋರಿಸಲು ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"ಕ್ಯಾಲೆಂಡರ್ ಇನ್‌ಪುಟ್ ಮೋಡ್‌ಗೆ ಬದಲಿಸಿ"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಲು ಸ್ವೈಪ್ ಮಾಡಿ ಅಥವಾ ದಿನವನ್ನು ಆಯ್ಕೆಮಾಡಲು ಹಿಂತಿರುಗಲು ಟ್ಯಾಪ್ ಮಾಡಿ"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"ಪಠ್ಯ ಇನ್‌ಪುಟ್ ಮೋಡ್‌ಗೆ ಬದಲಿಸಿ"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"ಮುಂದಿನ ತಿಂಗಳಿಗೆ ಬದಲಿಸಿ"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"ಹಿಂದಿನ ತಿಂಗಳಿಗೆ ಬದಲಿಸಿ"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"ವರ್ಷವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಬದಲಿಸಿ"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"ಇಂದು"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"ವರ್ಷದ ಪಿಕರ್ ಗೋಚರಿಸುತ್ತದೆ"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"ದಿನಾಂಕ ವ್ಯಾಪ್ತಿಯ ಇನ್‌ಪುಟ್ ಅಮಾನ್ಯವಾಗಿದೆ"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"ದಿನಾಂಕಗಳನ್ನು ನಮೂದಿಸಿ"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"ವ್ಯಾಪ್ತಿಯಲ್ಲಿದೆ"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"ಅಂತಿಮ ದಿನಾಂಕ"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"ಮುಂದಿನ ತಿಂಗಳನ್ನು ತೋರಿಸಲು ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"ಹಿಂದಿನ ತಿಂಗಳನ್ನು ತೋರಿಸಲು ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"ಪ್ರಾರಂಭ ದಿನಾಂಕ"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"ದಿನಾಂಕಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"ಡೈಲಾಗ್"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"ಕುಗ್ಗಿಸಲಾಗಿದೆ"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"ವಿಸ್ತರಿಸಲಾಗಿದೆ"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"ಡ್ರಾಪ್‌ಡೌನ್ ಮೆನುವನ್ನು ಟಾಗಲ್ ಮಾಡಿ"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"ಹುಡುಕಿ"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"ವಜಾಗೊಳಿಸಿ"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"ಸಲಹೆಗಳನ್ನು ಕೆಳಗೆ ನೀಡಲಾಗಿದೆ"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"ಗಂಟೆ"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ಗಂಟೆ"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"ಸಮಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d ಓ ಕ್ಲಾಕ್"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"ಗಂಟೆಯವರೆಗೆ"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"ನಿಮಿಷ"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"ನಿಮಿಷಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d ನಿಮಿಷಗಳು"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"ನಿಮಿಷಗಳವರೆಗೆ"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM ಅಥವಾ PM ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"ಟೂಲ್‌ಟಿಪ್ ಅನ್ನು ತೋರಿಸಿ"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"ಟೂಲ್‌ಟಿಪ್"</string>
+    <string name="maker_map_count">5 ಪ್ರಮಾಣಿತ ಕಾರ್ಯಾಗಾರ ಸ್ಥಳಗಳು</string>
+    <string name="maker_map_preview">ಚನ್ನಪಟ್ಟಣ ಕಲಾವಿದರ GPS ಪೂರ್ವವೀಕ್ಷಣೆ</string>
+    <string name="menu_catalog">ಆಟಿಕೆ ಪಟ್ಟಿ</string>
+    <string name="menu_collection">ಸಂಗ್ರಹ</string>
+    <string name="menu_makers">ಕಲಾವಿದರನ್ನು ಭೇಟಿ ಮಾಡಿ</string>
+    <string name="menu_process">ತಯಾರಿಸುವ ವಿಧಾನ</string>
+    <string name="menu_title">ಮೆನು</string>
+    <string name="my_orders">ನನ್ನ ಆರ್ಡರ್‌ಗಳು</string>
+    <string name="nav_cart">ಕಾರ್ಟ್</string>
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="nav_verify">ಪರಿಶೀಲನೆ</string>
+    <string msgid="542007171693138492" name="navigation_menu">"ನ್ಯಾವಿಗೇಶನ್‌ ಮೆನು"</string>
+    <string name="no_orders_yet">ಇನ್ನೂ ಆರ್ಡರ್‌ಗಳು ಇಲ್ಲ.</string>
+    <string msgid="6610465462668679431" name="not_selected">"ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ"</string>
+    <string name="open_in_youtube">ಯೂಟ್ಯೂಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="order_placed_success">ಆರ್ಡರ್ ಯಶಸ್ವಿಯಾಗಿ ಇರಿಸಲಾಗಿದೆ.</string>
+    <string name="order_summary">ಆರ್ಡರ್ ಸಾರಾಂಶ</string>
+    <string name="payment_card">ಕಾರ್ಡ್</string>
+    <string name="payment_cod">ಕ್ಯಾಶ್ ಆನ್ ಡೆಲಿವರಿ</string>
+    <string name="payment_upi">ಯುಪಿಐ</string>
+    <string name="phone">ಫೋನ್</string>
+    <string name="phone_fmt">ಫೋನ್: %1$s</string>
+    <string name="play_icon_desc">ಪ್ಲೇ</string>
+    <string name="play_in_app">ಅಪ್ ಒಳಗೆ ಚಾಲನೆ</string>
+    <string name="price_rs_fmt">ರೂ. %1$s</string>
+    <string name="process_title_nav">ತಯಾರಿಸುವ ವಿಧಾನ</string>
+    <string name="profile_title">ಪ್ರೊಫೈಲ್</string>
+    <string name="qty_fmt">ಪ್ರಮಾಣ: %1$d</string>
+    <string msgid="5941395253238309765" name="range_end">"ಶ್ರೇಣಿಯ ಅಂತ್ಯ"</string>
+    <string msgid="7097486360902471446" name="range_start">"ಶ್ರೇಣಿಯ ಪ್ರಾರಂಭ"</string>
+    <string name="remove">ತೆಗೆದುಹಾಕಿ</string>
+    <string name="rs_short">ರೂ.</string>
+    <string msgid="6043586758067023" name="selected">"ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ"</string>
+    <string name="signup_all_required">ಎಲ್ಲಾ ವಿವರಗಳು ಅಗತ್ಯ.</string>
+    <string name="signup_name_short">ಹೆಸರು ಕನಿಷ್ಠ 3 ಅಕ್ಷರಗಳಿರಬೇಕು.</string>
+    <string name="signup_password_mismatch">ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.</string>
+    <string name="signup_success_login_again">ಸೈನ್ ಅಪ್ ಯಶಸ್ವಿ. ದಯವಿಟ್ಟು ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ನೊಂದಿಗೆ ಲಾಗಿನ್ ಮಾಡಿ.</string>
+    <string msgid="4139871816613051306" name="state_empty">"ಖಾಲಿ"</string>
+    <string msgid="5834637030682409883" name="state_off">"ಆಫ್ ಆಗಿದೆ"</string>
+    <string msgid="1490883874751719580" name="state_on">"ಆನ್ ಆಗಿದೆ"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_delivered">ವಿತರಿಸಲಾಗಿದೆ</string>
+    <string name="status_out_for_delivery">ಡೆಲಿವರಿಗೆ ಹೊರಟಿದೆ</string>
+    <string name="status_packed">ಪ್ಯಾಕ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="status_placed">ಇರಿಸಲಾಗಿದೆ</string>
+    <string name="status_shipped">ರವಾನಿಸಲಾಗಿದೆ</string>
+    <string msgid="2561197295334830845" name="switch_role">"ಬದಲಿಸಿ"</string>
+    <string msgid="1672349317127674378" name="tab">"ಟ್ಯಾಬ್"</string>
+    <string name="tagline">ಆಟಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ. ಕಲಾವಿದರನ್ನು ಭೇಟಿ ಮಾಡಿ. ಕಲೆ ಉಳಿಸಿ.</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> ಶೇಕಡಾ."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"ಟೂಲ್‌ಟಿಪ್"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"ಟೂಲ್‌ಟಿಪ್ ಅನ್ನು ತೋರಿಸಿ"</string>
+    <string name="total_rs_fmt">ಒಟ್ಟು: ರೂ. %1$d</string>
+    <string name="toy_id_fmt">ಆಟಿಕೆ ID %1$s</string>
+    <string name="verified_wooden_toys">ಪರಿಶೀಲಿತ ಮರದ ಆಟಿಕೆಗಳು</string>
+    <string name="verify_action">ಪ್ರಾಮಾಣಿಕತೆ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="verify_empty">ಆಟಿಕೆ ಟ್ಯಾಗ್ ಮೇಲಿರುವ 6 ಅಂಕಿಯ ID ನಮೂದಿಸಿ.</string>
+    <string name="verify_hint">100001, 100002, ಅಥವಾ 100003 ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="verify_invalid">ಆಟಿಕೆ ID ನಿಖರವಾಗಿ 6 ಅಂಕಿಗಳಿರಬೇಕು.</string>
+    <string name="verify_not_found">ಈ ಆಟಿಕೆ IDಗೆ ದಾಖಲೆ ಸಿಗಲಿಲ್ಲ.</string>
+    <string name="verify_success">ನಿಜವಾದ ಆಟಿಕೆ ಪರಿಶೀಲಿಸಲಾಗಿದೆ</string>
+    <string name="verify_title">ನನ್ನ ಆಟಿಕೆ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="watch_header">ಚನ್ನಪಟ್ಟಣ ಆಟಿಕೆಗಳು ಹೇಗೆ ತಯಾರಾಗುತ್ತವೆ ನೋಡಿ</string>
+</resources>

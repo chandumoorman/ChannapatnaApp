@@ -1,0 +1,63 @@
+com.nammapride.app-core-runtime-2.2.0-0 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\010387816c7fe048595c7d5da2f64398\transformed\core-runtime-2.2.0\res
+com.nammapride.app-core-1.13.1-1 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\03fbbbc275c60b81af239fa4f465850e\transformed\core-1.13.1\res
+com.nammapride.app-material-icons-core-release-2 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\0593936bf5c231606be3db60076fbbe4\transformed\material-icons-core-release\res
+com.nammapride.app-savedstate-1.2.1-3 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\0c6527e5899186f3fa267d83dc7ffdf8\transformed\savedstate-1.2.1\res
+com.nammapride.app-foundation-release-4 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\0e944614c46f6778448be095994a08e5\transformed\foundation-release\res
+com.nammapride.app-core-ktx-1.13.1-5 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\105b02ea5ef88a772a075aef2833d65c\transformed\core-ktx-1.13.1\res
+com.nammapride.app-lifecycle-runtime-ktx-release-6 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\29cc0b52051b0e63c9cf306c169f6bb1\transformed\lifecycle-runtime-ktx-release\res
+com.nammapride.app-annotation-experimental-1.4.1-7 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\2a70b6514a76a9f46fc1eda475b9a1cb\transformed\annotation-experimental-1.4.1\res
+com.nammapride.app-animation-release-8 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\2b3fd66f769904f435fc01996b84e523\transformed\animation-release\res
+com.nammapride.app-ui-graphics-release-9 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\2ce1ec349bc659b867131ae3da250c8c\transformed\ui-graphics-release\res
+com.nammapride.app-credentials-1.2.0-rc01-10 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\2f2b2695cbe99bc28c0ee9ab89c77928\transformed\credentials-1.2.0-rc01\res
+com.nammapride.app-play-services-maps-19.0.0-11 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\30fb749b6046775f76819d3cdb810e3b\transformed\play-services-maps-19.0.0\res
+com.nammapride.app-play-services-basement-18.4.0-12 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\333040db99823b2c5b51963ddb357f9d\transformed\play-services-basement-18.4.0\res
+com.nammapride.app-ui-tooling-release-13 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\37fe261fed4a82af91b94468a71e3b94\transformed\ui-tooling-release\res
+com.nammapride.app-material-icons-extended-release-14 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\38f44d3522556fed4392c91476f18924\transformed\material-icons-extended-release\res
+com.nammapride.app-material3-release-15 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\3d80447a5a03c0a2744100e267cf4c46\transformed\material3-release\res
+com.nammapride.app-firebase-common-21.0.0-16 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\3d88aae3723b3c430d0a6991ba37d7fe\transformed\firebase-common-21.0.0\res
+com.nammapride.app-play-services-base-18.5.0-17 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\3ebaadf8f76d551262de4e85aa250e1f\transformed\play-services-base-18.5.0\res
+com.nammapride.app-credentials-play-services-auth-1.2.0-rc01-18 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\3f5bdccfa5c5ef416bfa07208e7864cc\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.nammapride.app-browser-1.4.0-19 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\3fb97f0c09a7d5d5de2e5563d8d29179\transformed\browser-1.4.0\res
+com.nammapride.app-lifecycle-runtime-release-20 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\3feb94fdb09ca9b038222af63b7cbe5c\transformed\lifecycle-runtime-release\res
+com.nammapride.app-savedstate-ktx-1.2.1-21 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\46eaaa6e0f780c6b4969395035d6059d\transformed\savedstate-ktx-1.2.1\res
+com.nammapride.app-startup-runtime-1.1.1-22 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\49f86b76d968f0149652b04ed23368d3\transformed\startup-runtime-1.1.1\res
+com.nammapride.app-lifecycle-viewmodel-ktx-2.8.6-23 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\4d7704cab1bb4877a90c21c162f10540\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.nammapride.app-lifecycle-runtime-compose-release-24 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\5a423eb5e10a2bfe9692674a2d5d37fd\transformed\lifecycle-runtime-compose-release\res
+com.nammapride.app-ui-text-release-25 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\6031e55c3f11efdeb0c462e58486af9f\transformed\ui-text-release\res
+com.nammapride.app-animation-core-release-26 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\691f8c7bfdd535c6d83b5db1969b77d3\transformed\animation-core-release\res
+com.nammapride.app-lifecycle-viewmodel-savedstate-2.8.6-27 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\69acf451fc9dda3de7c8174e5f15083a\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.nammapride.app-material-ripple-release-28 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\6b91caffa66e803f7a54a37b9433b346\transformed\material-ripple-release\res
+com.nammapride.app-core-common-2.0.3-29 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\7a9923f8ec00bfa0fe1e3b12b806d97f\transformed\core-common-2.0.3\res
+com.nammapride.app-emoji2-1.3.0-30 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\7b09b55623f093db32b8b4da992ffd13\transformed\emoji2-1.3.0\res
+com.nammapride.app-graphics-path-1.0.1-31 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\7d0067e54fd79cc163a9eab35708d3a7\transformed\graphics-path-1.0.1\res
+com.nammapride.app-foundation-layout-release-32 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\82087770c8702f3c1eb6a9d34dbd0856\transformed\foundation-layout-release\res
+com.nammapride.app-activity-compose-1.9.3-33 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\8458ba53bc61bee8fc6b998635adb0f3\transformed\activity-compose-1.9.3\res
+com.nammapride.app-ui-tooling-data-release-34 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\90ca7bcd6e3f68f9b2764b8333a0c65c\transformed\ui-tooling-data-release\res
+com.nammapride.app-lifecycle-livedata-core-ktx-2.8.6-35 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\93353667304b55a9e9ccaa9bb05c6be9\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.nammapride.app-activity-ktx-1.9.3-36 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\99f8370c69fb8f5d7d4555207f014ea2\transformed\activity-ktx-1.9.3\res
+com.nammapride.app-ui-release-37 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\9cac3aa1487562d72b7b2f3803609449\transformed\ui-release\res
+com.nammapride.app-profileinstaller-1.3.1-38 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\c2824dac2bb9e2b28dde859ce89a4ca9\transformed\profileinstaller-1.3.1\res
+com.nammapride.app-lifecycle-livedata-2.8.6-39 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\c3a5c98c0ba8a6caea8e419ab0531ece\transformed\lifecycle-livedata-2.8.6\res
+com.nammapride.app-ui-util-release-40 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\c433a9aa00fb7ec0b347811e7af01db1\transformed\ui-util-release\res
+com.nammapride.app-runtime-release-41 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\c4ead2932e428da7c2e4f4bf877039d0\transformed\runtime-release\res
+com.nammapride.app-lifecycle-livedata-core-2.8.6-42 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\c6947257c19fefaa52de4ce61c8261b5\transformed\lifecycle-livedata-core-2.8.6\res
+com.nammapride.app-runtime-saveable-release-43 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\ccf586dcd0b37fd32f7c3972187dacc1\transformed\runtime-saveable-release\res
+com.nammapride.app-activity-1.9.3-44 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\cf3cb0ddce3d070de9496a6852511288\transformed\activity-1.9.3\res
+com.nammapride.app-lifecycle-viewmodel-release-45 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\d0f9feb0d7df4a66deffef42ede8f547\transformed\lifecycle-viewmodel-release\res
+com.nammapride.app-ui-tooling-preview-release-46 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\da0e6de92dedd70f3baf4b277bfe9083\transformed\ui-tooling-preview-release\res
+com.nammapride.app-core-12.1.0-47 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\dae067c7c1cd53cd8d68eda42c3b0a79\transformed\core-12.1.0\res
+com.nammapride.app-osmdroid-android-6.1.18-48 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\ddc26001926ac8c914a17c6cf56b4101\transformed\osmdroid-android-6.1.18\res
+com.nammapride.app-ui-geometry-release-49 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\de530060a58e8b8118e89a1b83e86ef1\transformed\ui-geometry-release\res
+com.nammapride.app-lifecycle-process-2.8.6-50 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\ed60ecdcd385dd3c71b1a549c95235a7\transformed\lifecycle-process-2.8.6\res
+com.nammapride.app-ui-unit-release-51 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\f23f1a437fae4292c6ff1687774e9ab4\transformed\ui-unit-release\res
+com.nammapride.app-play-services-auth-20.7.0-52 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\f8769832d76084f2ace73d2bf48c3ce3\transformed\play-services-auth-20.7.0\res
+com.nammapride.app-material-release-53 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\fcbc30d8a5a6f8cf313f6fceba64616d\transformed\material-release\res
+com.nammapride.app-customview-poolingcontainer-1.0.0-54 C:\Users\Cheater\.gradle\caches\9.0.0\transforms\fe00b868965457b6a74ae954d93cd2b1\transformed\customview-poolingcontainer-1.0.0\res
+com.nammapride.app-pngs-55 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\build\generated\res\pngs\debug
+com.nammapride.app-res-56 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\build\generated\res\processDebugGoogleServices
+com.nammapride.app-resValues-57 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\build\generated\res\resValues\debug
+com.nammapride.app-packageDebugResources-58 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nammapride.app-packageDebugResources-59 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nammapride.app-debug-60 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.nammapride.app-debug-61 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\src\debug\res
+com.nammapride.app-main-62 C:\Users\Cheater\AndroidStudioProjects\Channapatna-Namma Pride\app\src\main\res
